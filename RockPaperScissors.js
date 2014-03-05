@@ -50,3 +50,5 @@ var compare = function(choice1, choice2) {
 };
 
 compare(userChoice, computerChoice);
+
+//update 3.14.2014
